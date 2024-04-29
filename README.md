@@ -43,6 +43,7 @@ Die einzelnen Varianten werden unterschiedlich bedient daher zu jeder eine kurze
 6. In der Konsole wird dir die Länge deiner To-Do-Liste und die Einzelnen Punkte angezeigt.
 
 ### 2. GUI.java
+
 1. Run Code
 2. Um einen neuen To-Do-Listen Punkt hinzuzufügen, muss dieser im Textfeld eigegeben werden.
 3. Durch Klicken auf den Button 'Submit' wird dieser der Liste in der Textarea (unten) hinzugefügt.
@@ -57,4 +58,32 @@ Die einzelnen Varianten werden unterschiedlich bedient daher zu jeder eine kurze
 3. Durch Klicken auf den Button 'hinzufügen' wird dieser der Liste unten hinzugefügt.
 4. Um weitere Punkte hinzuzufügen wieder hole die Schritte 2. und 3.
 5. Um Punkte zu Löschen kannst du sie in der Liste unten auswählen un mit Klicken auf den 'löschen'-Button entfernen.
+
+## Quellen und verwendete Hilfsmittel
+Für die Erstellung der To-Do-Anwendungen wurden verschieden Quellen und Hilfsmittel hinzugezogen.
+Diese sind hier folgend aufgelistet:
+
+How to enlarge icons in eclipse:
+https://stackoverflow.com/questions/20718093/eclipse-interface-icons-very-small-on-high-resolution-screen-in-windows-8-1
+
+How to get UserInput:
+https://stackoverflow.com/questions/5287538/how-to-get-the-user-input-in-java
+
+ArrayLists:
+https://www.w3schools.com/java/java_arraylist.asp
+
+How to make a GUI:
+https://youtu.be/5o3fMLPY7qY?si=VGLTAerlAshuFZOx
+
+Swing Tutorial:
+https://beginnersbook.com/2015/07/java-swing-tutorial/
+https://www.youtube.com/watch?v=iE8tZ0hn2Ws&t=53s
+
+multiple panel on JFrame:
+https://stackoverflow.com/questions/15694107/how-to-layout-multiple-panels-on-a-jframe-java
+
+Listendarstellung in Swing,
+Commit-Kommenardarstellung,
+Readme File Gestaltung/Aufbau:
+https://gemini.google.com/
 

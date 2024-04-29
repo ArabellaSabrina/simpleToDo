@@ -17,6 +17,9 @@ To-Do-Liste wird mit UserInputs aus der Konsole erstellt.
 Die kreierte Liste wird nach dem Beenden der Eingabe neuer UserInputs in der Konsole ausgegeben.
 
 ### 2. GUI.java
+
+<img src="https://github.com/ArabellaSabrina/simpleToDo/blob/master/images/GUI.png" width="400">
+
 Erster Versuch eine Grafische Benutzeroberfläche zu kreieren für die Ein- und Ausgabe der To-Do-Liste.
 Ziele: 
 - Eingabe der To-Do's via Dialogfenster (Textfeld)
@@ -27,6 +30,9 @@ Ziele:
 - Abschliessen der To-Do-Liste mit Beenden-Button (der das Fenster automatisch schliesst)
 
 ### 3. GUIwithRemove.java
+
+<img src="https://github.com/ArabellaSabrina/simpleToDo/blob/master/images/GUIwithRemove1.png" width="400">
+
 Vereinfachung der Grafischen Benutzeroberfläche. 
 - Eingabe neuer To-Do's via Textfeld und 'Hinzufügen'-Button
 - Löschen eines To-Do's durch Auswahl der entsprechenden Task und 'Löschen'-Button
@@ -58,6 +64,7 @@ Die einzelnen Varianten werden unterschiedlich bedient daher zu jeder eine kurze
 3. Durch Klicken auf den Button 'hinzufügen' wird dieser der Liste unten hinzugefügt.
 4. Um weitere Punkte hinzuzufügen wieder hole die Schritte 2. und 3.
 5. Um Punkte zu Löschen kannst du sie in der Liste unten auswählen un mit Klicken auf den 'löschen'-Button entfernen.
+<img src="https://github.com/ArabellaSabrina/simpleToDo/blob/master/images/GUIwithRemove2.png" width="400">
 
 ## Quellen und verwendete Hilfsmittel
 Für die Erstellung der To-Do-Anwendungen wurden verschieden Quellen und Hilfsmittel hinzugezogen.

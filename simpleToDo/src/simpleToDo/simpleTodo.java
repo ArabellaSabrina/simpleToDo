@@ -1,17 +1,24 @@
 package simpleToDo;
 
-	// Imports aufgrund des verwedeten Codes
+	// Imports aufgrund des verwendeten Codes
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * 
+ * Einfache Abfrage eines User Inputs zum kreieren einer neuen Aufgabe
+ */
+
+
 public class simpleTodo {
 	
-	// Einfache Abfrage eines User Inputs zum kreieren einer neuen Aufgabe
+	
 
 	public static void main(String[] args) {
 		/** 
 		*
+		* Commiten zu GitHub getestet mit dem auskommentierten Code.
 		*
 		Scanner reader = new Scanner(System.in);
 		System.out.println("Gib einen To-Do-Listen Punkt ein: ");
@@ -41,7 +48,7 @@ public class simpleTodo {
 			System.out.println("Gib einen To-Do-Listen Punkt ein (oder 'exit' um zu beenden): ");	// User Inputs erhalten
 			String newTask = reader.nextLine();	// *1 .next() mit .nextLine() ersetzt
 			
-			if (newTask.equals("exit")) {
+			if (newTask.equals("exit")) {	// Abbruchbedingung
 				break;
 			}
 			
@@ -51,7 +58,7 @@ public class simpleTodo {
 					
 		System.out.println("Die To-Do Liste enthält " + TodoArrayList.size() + " Aufgaben");	// Wie lange ist die ToDo-Liste
 		System.out.println("Deine To-Do Liste: ");
-		System.out.println(TodoArrayList); 	// *1 Abbruch Bedingung für Eingabe muss angepasst werden, dass nicht das Leerzeichen als Ende des Strings erkannt wird, sondern Zeilenumbruch (Enter).
+		System.out.println(TodoArrayList); 	// *1 Anpassung, dass nicht das Leerzeichen als Ende des Strings erkannt wird, sondern Zeilenumbruch (Enter).
 		
 		reader.close();		// reader erst zum Schluss(nach While-Schlaufe) schliessen, um Eingabe weiter zu ermöglichen
 		

@@ -13,6 +13,9 @@ Daraus entstaden drei Varianten von einfachen Anwendungen:
 3. GUIwithRemove.java
 
 ### 1. simpleTodo.java
+
+<img src="https://github.com/ArabellaSabrina/simpleToDo/blob/master/images/simpleToDo.png" width="400">
+
 To-Do-Liste wird mit UserInputs aus der Konsole erstellt.
 Die kreierte Liste wird nach dem Beenden der Eingabe neuer UserInputs in der Konsole ausgegeben.
 
